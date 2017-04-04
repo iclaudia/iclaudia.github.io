@@ -1,0 +1,56 @@
+#primero {
+  background-color: lightgreen
+;
+  height: 150px;
+  width: 70%;
+  margin: auto;
+  border: 3px solid black;
+  padding:5px;
+}
+
+h2{
+  font-size: 50px;
+  color: darkgreen;
+}
+h3{
+  font-size: 25px;
+}
+#tabla{
+  height: 100px;
+  width: 60%;
+  margin:auto;
+  border: 2px solid green;
+}
+#motivacion {
+  background-color: green;
+  width: 50%;
+  font-weight:bold;
+  font-family: fantasy;
+  font-size: 25px;
+  font-style: italic;
+  text-align: center;
+  }
+
+  #transformacion {
+height:200px;
+background-color:
+padding: 10px;
+border: 6px solid black;
+margin: 5px;
+  }
+
+  #cambio{
+    height: 290px;
+    border: 2px solid green;
+  }
+  h4 {
+    font-size: 25px;
+  }
+ #left {
+   align-items: left;
+
+ }
+ #lista{
+   display: inline;
+   font: 25px italic fantasy;
+ }
